@@ -1,6 +1,6 @@
 # binary_classification_projects
 
-## This is a project to do a binary classification to predict which customer is likely to churn. 
+### This is a project to do a binary classification to predict which customer is likely to churn. 
 
 ## Features: 
        - CustomerId, 
